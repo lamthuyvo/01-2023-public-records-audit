@@ -39,7 +39,7 @@ The notebooks output this spreadsheet which contains TKTK: [`output/tktktk.csv`]
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
 
 - Python 3
-- The Python libraries specified in [`requirements.txt`](requirements.txt)
+- The Python libraries specified in [`requirements.txt`](requirements.txt). You can install them by running `pip install -r requirements.txt`
 
 ## Licensing
 
